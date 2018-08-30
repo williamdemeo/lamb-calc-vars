@@ -1,1 +1,0 @@
-## `lamb-calc-vars/lit`
